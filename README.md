@@ -1,2 +1,2 @@
-# Scheduling-Algorithms-Round-Robin
+# Scheduling-Algorithms-SJF
 Round Robin
