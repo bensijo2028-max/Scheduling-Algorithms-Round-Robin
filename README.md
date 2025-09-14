@@ -1,3 +1,3 @@
 # Scheduling-Algorithms-SJF
-Round Robin
+Shortest Job First
 Non Premptive Scheduling Algorithm
